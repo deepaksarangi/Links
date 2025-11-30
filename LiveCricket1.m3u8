@@ -1,10 +1,11 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=9000000,RESOLUTION=1920x1080
-https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1761662609~acl=*sshindi*~id=c8d58957e900ee9845d4f0a29e77642f~data=hdntl~hmac=2216b4002780c3289d48f3b0fbbf50b07cefd4dc52fcc4fa43643811f36208cc&User-agent=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Safari/537.36&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://rumble.com/live-hls/70870y/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1761662609~acl=*sshindi*~id=c8d58957e900ee9845d4f0a29e77642f~data=hdntl~hmac=2216b4002780c3289d48f3b0fbbf50b07cefd4dc52fcc4fa43643811f36208cc&User-agent=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Safari/537.36&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://rumble.com/live-hls/70870y/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
-https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1761662609~acl=*sshindi*~id=c8d58957e900ee9845d4f0a29e77642f~data=hdntl~hmac=2216b4002780c3289d48f3b0fbbf50b07cefd4dc52fcc4fa43643811f36208cc&User-agent=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Safari/537.36&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://rumble.com/live-hls/70870y/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360
-https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1761662609~acl=*sshindi*~id=c8d58957e900ee9845d4f0a29e77642f~data=hdntl~hmac=2216b4002780c3289d48f3b0fbbf50b07cefd4dc52fcc4fa43643811f36208cc&User-agent=Mozilla/5.0%20(X11;%20Linux%20x86_64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Safari/537.36&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+https://rumble.com/live-hls/70870y/playlist.m3u8
