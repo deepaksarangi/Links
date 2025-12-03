@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=9000000,RESOLUTION=1920x1080
-https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-119/pisx-5m44/chunklist.m3u8
+https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-59/3530-cirs/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-119/pisx-5m44_1080p/chunklist.m3u8
+https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-59/3530-cirs_1080p/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720
-https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-119/pisx-5m44_720p/chunklist.m3u8
+https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-59/3530-cirs_720p/chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360
-https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-119/pisx-5m44_360p/chunklist.m3u8
+https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-59/3530-cirs_360p/chunklist.m3u8
