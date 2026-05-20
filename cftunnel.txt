@@ -1,1 +1,1 @@
-https://processing-day-url-pollution.trycloudflare.com/fetch/fetch
+https://processing-day-url-pollution.trycloudflare.com/fetch/fetch/fetch
