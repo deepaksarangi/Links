@@ -1,1 +1,1 @@
-https://zus-commonwealth-ronald-ensuring.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
