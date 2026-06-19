@@ -1,1 +1,1 @@
-https://innovations-handbags-cartridge-doubt.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
