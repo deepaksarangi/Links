@@ -1,1 +1,1 @@
-https://triumph-trained-warm-recorder.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
