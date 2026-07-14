@@ -1,1 +1,1 @@
-https://endless-licence-simpson-charge.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
