@@ -1,1 +1,1 @@
-https://lane-bride-dir-andale.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
