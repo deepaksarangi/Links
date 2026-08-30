@@ -1,1 +1,1 @@
-https://separately-but-lightning-interests.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
