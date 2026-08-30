@@ -1,1 +1,1 @@
-https://attraction-rights-story-quiet.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
