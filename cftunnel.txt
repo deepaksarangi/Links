@@ -1,1 +1,1 @@
-https://promote-surgeons-bingo-median.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
