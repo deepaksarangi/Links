@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://teacher-planners-isaac-opponents.trycloudflare.com/fetch
