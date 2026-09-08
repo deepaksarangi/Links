@@ -1,1 +1,1 @@
-https://bugs-brighton-rescue-bike.trycloudflare.com/fetch
+https://nomination-charging-registry-matrix.trycloudflare.com/fetch
