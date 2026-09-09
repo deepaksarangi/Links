@@ -1,1 +1,1 @@
-https://alive-noble-consensus-tropical.trycloudflare.com/fetch
+https://nursery-stats-pilot-eval.trycloudflare.com/fetch
