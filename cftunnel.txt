@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://suzuki-blvd-job-occurrence.trycloudflare.com/fetch
