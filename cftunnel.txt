@@ -1,1 +1,1 @@
-https://immediately-magnitude-neon-entered.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
