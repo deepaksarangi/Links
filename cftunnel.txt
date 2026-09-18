@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://webshots-equipment-javascript-vid.trycloudflare.com/fetch
