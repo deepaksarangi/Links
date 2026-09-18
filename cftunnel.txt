@@ -1,1 +1,1 @@
-https://pointer-military-naturally-prescribed.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
