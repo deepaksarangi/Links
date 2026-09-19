@@ -1,1 +1,1 @@
-https://sea-partition-hist-diane.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
