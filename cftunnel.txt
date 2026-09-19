@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://shake-clubs-surveys-marine.trycloudflare.com/fetch
