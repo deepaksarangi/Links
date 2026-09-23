@@ -1,1 +1,1 @@
-https://gonna-coverage-miles-claire.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
