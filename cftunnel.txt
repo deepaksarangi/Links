@@ -1,1 +1,1 @@
-https://endorsed-ate-sauce-eye.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
