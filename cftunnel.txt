@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://tables-amendment-miss-jelsoft.trycloudflare.com/fetch
