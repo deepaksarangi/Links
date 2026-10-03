@@ -1,1 +1,1 @@
-https://second-moves-adrian-optimization.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
