@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://workout-window-traditional-lewis.trycloudflare.com/fetch
