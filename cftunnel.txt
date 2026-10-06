@@ -1,1 +1,1 @@
-https://merely-tue-centered-bags.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
