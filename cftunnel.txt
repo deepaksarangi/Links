@@ -1,1 +1,1 @@
-https://sites-patterns-preservation-complicated.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
