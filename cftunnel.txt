@@ -1,1 +1,1 @@
-https://greatly-approximately-formerly-believe.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
