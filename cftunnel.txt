@@ -1,1 +1,1 @@
-https://vehicle-charitable-feels-describe.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
