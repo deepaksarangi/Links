@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://frontpage-shannon-silver-alter.trycloudflare.com/fetch
