@@ -1,1 +1,1 @@
-https://preparation-pros-theater-widescreen.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
