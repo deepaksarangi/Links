@@ -1,1 +1,1 @@
-https://dial-builds-selection-poems.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
