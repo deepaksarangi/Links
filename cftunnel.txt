@@ -1,1 +1,1 @@
-https://rely-numbers-approve-alert.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
