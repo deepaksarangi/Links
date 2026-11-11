@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://leave-release-screens-caught.trycloudflare.com/fetch
