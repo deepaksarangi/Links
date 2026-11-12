@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://chief-reservoir-bangkok-paths.trycloudflare.com/fetch
