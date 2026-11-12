@@ -1,1 +1,1 @@
-https://preparation-privacy-demo-pumps.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
