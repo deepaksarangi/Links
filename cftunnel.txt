@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://covering-rivers-sized-lenses.trycloudflare.com/fetch
