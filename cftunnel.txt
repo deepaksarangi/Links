@@ -1,1 +1,1 @@
-https://matching-alan-synthesis-extremely.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
