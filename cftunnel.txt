@@ -1,1 +1,1 @@
-https://own-campbell-racks-awareness.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
