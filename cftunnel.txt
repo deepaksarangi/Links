@@ -1,1 +1,1 @@
-https://cruises-nutrition-edgar-fish.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
