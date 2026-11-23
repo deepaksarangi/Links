@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://heroes-timer-pushed-trace.trycloudflare.com/fetch
