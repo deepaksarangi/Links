@@ -1,1 +1,1 @@
-https://satin-roland-dispatch-used.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
