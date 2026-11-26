@@ -1,1 +1,1 @@
-https://regulation-toner-westminster-continues.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
