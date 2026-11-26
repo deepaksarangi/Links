@@ -1,1 +1,1 @@
-https://parliamentary-prep-seventh-carefully.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
