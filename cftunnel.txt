@@ -1,1 +1,1 @@
-https://americans-senate-weekly-delivery.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
