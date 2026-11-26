@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://wonder-northern-sprint-smile.trycloudflare.com/fetch
