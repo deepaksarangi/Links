@@ -1,1 +1,1 @@
-https://api.trycloudflare.com/fetch
+https://occupations-yards-expansion-olympics.trycloudflare.com/fetch
