@@ -1,1 +1,1 @@
-https://slim-authors-shaved-wedding.trycloudflare.com/fetch
+https://api.trycloudflare.com/fetch
